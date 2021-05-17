@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning about JavaScript.
 - 💞️ I’m looking to collaborate on anything that can help me learn faster and more efficient.
 - 📫 How to reach me ... email me or join my discord server >> https://discord.gg/yJ5dPZjuy6 =)
+- - Coding_cat
 
 <!---
 Tocey/Tocey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
